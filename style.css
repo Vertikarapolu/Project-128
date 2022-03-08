@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+}
+
+
+.heading
+{
+    margin:10px;
+    font-size:30px;
+    background-color:white;
+    color:rgb(0, 0, 0);
+    padding-top:20px;
+    padding-bottom:20px;
+    border-radius:40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-display:inherit;
+}
+
+.heading_note
+{
+    font-size:20px;
+    color:hotpink;
+}
+
+#MyCanvas
+{
+    border-radius:40px;
+    border:5px solid white;
+}
+
+#play_song
+{
+    width:140px;
+    font-size:20px;
+}
